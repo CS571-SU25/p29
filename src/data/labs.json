@@ -1,0 +1,102 @@
+[
+  {
+    "id": "diagnostic-reasoning-generative-ai",
+    "title": "Diagnostic Reasoning with Generative AI",
+    "pi": "Majid Afshar, Matthew Churpek, Anoop Mayampurath",
+    "faculty": ["Majid Afshar", "Matthew Churpek", "Anoop Mayampurath"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Use pre-trained language models and knowledge graphs to support clinical diagnostic decision-making and build clinical NLP benchmarks.",
+    "link": "https://www.medicine.wisc.edu/apcc/icu-data-science-lab"
+  },
+  {
+    "id": "generative-modeling-cells",
+    "title": "Generative Modeling of Cells",
+    "pi": "Juan Caicedo",
+    "faculty": ["Juan Caicedo"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Use generative models to simulate unseen microscopy experiments, guiding experimental design with computational inference.",
+    "link": "https://caicedolab.broadinstitute.org/"
+  },
+  {
+    "id": "metadata-standardization-machine-learning",
+    "title": "Metadata Standardization for Machine Learning",
+    "pi": "Colin Dewey, Mark Craven, Junjie Hu",
+    "faculty": ["Colin Dewey", "Mark Craven", "Junjie Hu"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Develop NLP and active learning methods to automatically standardize metadata from large heterogeneous datasets like SRA.",
+    "link": "https://www.biostat.wisc.edu/~craven/"
+  },
+  {
+    "id": "single-cell-spatial-inflammation",
+    "title": "Single-Cell and Spatial Analysis of Inflammation",
+    "pi": "Huy Dinh",
+    "faculty": ["Huy Dinh"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Analyze cross-species scRNA-seq and spatial omics data to study immune responses in burns and early cancer development.",
+    "link": "http://dinhlab.oncology.wisc.edu"
+  },
+  {
+    "id": "alzheimers-gene-regulation",
+    "title": "Genomics and Gene Regulation in Alzheimer’s Disease",
+    "pi": "Sunduz Keles",
+    "faculty": ["Sunduz Keles"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Explore blood methylation markers, co-expression networks, and QTL analysis using statistical and ML methods.",
+    "link": "https://scholar.google.com/citations?hl=en&user=qwLojRMAAAAJ"
+  },
+  {
+    "id": "gene-environment-interactions",
+    "title": "Statistical Methods for Gene-Environment Interactions",
+    "pi": "Qiongshi Lu",
+    "faculty": ["Qiongshi Lu"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Develop statistical frameworks for detecting gene-environment and gene-gene interactions in complex traits.",
+    "link": "https://qlu.biostat.wisc.edu"
+  },
+  {
+    "id": "ml-immunotherapy-precision",
+    "title": "ML for Immunotherapy and Precision Medicine",
+    "pi": "Irene Ong",
+    "faculty": ["Irene Ong"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Apply machine learning to immunotherapy, electronic health records, genomics, and microbiome data using explainable ML and visualization tools.",
+    "link": "https://www.biostat.wisc.edu/~ong"
+  },
+  {
+    "id": "gene-regulatory-multiomics",
+    "title": "Gene Regulatory Networks and Multi-Omics Integration",
+    "pi": "Sushmita Roy",
+    "faculty": ["Sushmita Roy"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Develop matrix factorization, autoencoders, and graph learning to study gene regulation and 3D genome organization.",
+    "link": "https://roylab.discovery.wisc.edu"
+  },
+  {
+    "id": "language-models-brain-disorder",
+    "title": "Language Models for Brain Disorder Complexity",
+    "pi": "Daifeng Wang",
+    "faculty": ["Daifeng Wang"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Use transformer-based models to analyze single-cell data across brain disorders and integrate multi-modal data.",
+    "link": "https://daifengwanglab.org/"
+  },
+  {
+    "id": "meta-analysis-tumor-data",
+    "title": "Meta-analysis of Diagnostic and Tumor Data",
+    "pi": "Lu Mao",
+    "faculty": ["Lu Mao"],
+    "eligibility": ["MS", "PhD"],
+    "funding": "RA Funding Available",
+    "description": "Develop statistical methods for meta-analysis with missing data and for analyzing nonlinear tumor growth curves in preclinical studies.",
+    "link": "https://sites.google.com/view/lmaowisc"
+  }
+]
