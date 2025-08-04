@@ -14,7 +14,7 @@ export default function Home() {
         style={{
           width: "100vw",
           height: "100vh",
-          backgroundImage: "url('public/assets/uw-lakeshore.jpeg')",
+          backgroundImage: "url('https://i.imgur.com/JURdJtY.jpeg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
