@@ -14,7 +14,7 @@ export default function Home() {
         style={{
           width: "100vw",
           height: "100vh",
-          backgroundImage: "url('/p0/assets/uw-lakeshore.jpg')",
+          backgroundImage: "url('public/assets/uw-lakeshore.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",
@@ -90,7 +90,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* WHY RESEARCH SECTION */}
       {/* WHY RESEARCH SECTION */}
       <section
         id="why-research"
